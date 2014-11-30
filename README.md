@@ -32,6 +32,10 @@ To install:
 
     npm install vector-tile
 
+Or use bower:
+
+    bower install vector-tile
+
 
 ## API Reference
 
