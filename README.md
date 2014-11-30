@@ -1,6 +1,6 @@
 # vector-tile-js
 
-[![build status](https://secure.travis-ci.org/devTristan/vector-tile-js.png)](http://travis-ci.org/devTristan/vector-tile-js)
+[![build status](https://secure.travis-ci.org/devTristan/vector-tile-js.png)](http://travis-ci.org/devTristan/vector-tile-js) [![Coverage Status](https://coveralls.io/repos/devTristan/vector-tile-js/badge.png)](https://coveralls.io/r/devTristan/vector-tile-js)
 
 This library reads [Mapbox Vector Tiles](https://github.com/mapbox/vector-tile-spec) and allows access to the layers and features.
 
